@@ -1,0 +1,18 @@
+{
+  "name": "ckeditor-image2-customization",
+  "private": true,
+  "version": "0.0.1",
+  "description": "Customization for the CKEditor image2 plugin",
+  "author": "William Belle <william.belle@gmail.com>",
+  "license": "MIT",
+  "repository": "epfl-si/ckeditor-image2-customization",
+  "engines": {
+    "node": ">=10"
+  },
+  "scripts": {
+  },
+  "devDependencies": {
+  },
+  "dependencies": {
+  }
+}
