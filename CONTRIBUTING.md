@@ -22,7 +22,7 @@ Release
 
 1. Bump the correct version (`npm version [<newversion> | major | minor | patch]`)
 1. Update the file [CHANGELOG.md](CHANGELOG.md)
-1. Create the tag (`git tag -a v<version> -m "Tagging the v<version> release"`)
+1. Create the tag (`git tag -a v<version> -m "ckeditor-image2-customization - <version>"`)
 
 License
 -------
