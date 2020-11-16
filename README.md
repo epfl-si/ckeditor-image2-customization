@@ -1,7 +1,7 @@
 ckeditor-image2-customization
 =============================
 
-[![Build Status][travis-image]][travis-url]
+[![Build Status][github-action-image]][github-action-url]
 [![Dependencies Status][daviddm-image]][daviddm-url]
 [![GitHub Tag][tag-image]][tag-url]
 
@@ -39,8 +39,8 @@ The MIT License
 
 Copyright (c) 2020 ECOLE POLYTECHNIQUE FEDERALE DE LAUSANNE, Switzerland, VPSI.
 
-[travis-image]: https://travis-ci.org/epfl-si/ckeditor-image2-customization.svg?branch=master
-[travis-url]: https://travis-ci.org/epfl-si/ckeditor-image2-customization
+[github-action-image]: https://github.com/epfl-si/ckeditor-image2-customization/workflows/Build/badge.svg
+[github-action-url]: https://github.com/epfl-si/ckeditor-image2-customization/actions
 [daviddm-image]: https://david-dm.org/epfl-si/ckeditor-image2-customization/status.svg
 [daviddm-url]: https://david-dm.org/epfl-si/ckeditor-image2-customization
 [tag-image]: https://img.shields.io/github/tag/epfl-si/ckeditor-image2-customization.svg
