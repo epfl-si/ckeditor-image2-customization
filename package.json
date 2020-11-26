@@ -1,7 +1,7 @@
 {
   "name": "ckeditor-image2-customization",
   "private": true,
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "Customization for the CKEditor image2 plugin",
   "author": "William Belle <william.belle@gmail.com>",
   "license": "MIT",
